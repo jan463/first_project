@@ -10,6 +10,15 @@ All data is gathered through APIs. The focus of the project is on showing compar
 
 The repo contains the final presentation as pdf. It is a short presentation which must only take 10 minutes. Nowhere near all data can be showed so I made a choice to show the most interesting and representative data.
 
+## Conclusions
+Hypothesis 1:  
+The pollution from formula one races is measurable.  
+Yes it is measurable, after each racing session an increase of air pollution is measurable. But this is not in every event visible the same. In the presentation are two examples with clearly measurable results.  
+
+Hypothesis 2:  
+Formula one cars are not the biggest problem regarding air pollution.  
+In the presentation there is a graph of Imola over the whole year of 2021 and the race weekend states no peak in air pollution. This is representable data as in all tested cases the race weekend did not produce the highest peak in air pollution.
+
 ## How to use it
 To use my code you can clone my repo. The F1 API works without private key. For the Open Weather Map API a private key is needed but it can be used for free.  
 
