@@ -20,9 +20,11 @@ Formula one cars are not the biggest problem regarding air pollution.
 In the presentation there is a graph of Imola over the whole year of 2021 and the race weekend states no peak in air pollution. This is representable data as in all tested cases the race weekend did not produce the highest peak in air pollution.  
 
 **Summary**
-As already stated the pollution is not in every case measurable. To see how it looks on the weekends where the air pollution is visible here is a visual of the whole year of Monza 2021 and as magnification a graph of the race weekend.  
+As already stated the pollution is not in every case measurable. To see how it looks on the weekends where the air pollution is visible here is a visual of the whole year of Imola 2021 and as magnification a graph of the race weekend.  
 
-[Presentation](https://www.canva.com/design/DAGT1QUyg-o/c0sDOQNcvjOw7wpqU8ssgA/view?utm_content=DAGT1QUyg-o&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+  
+![Alt text](https://github.com/jan463/first_project/blob/main/visual_imola.png)
+Here is a link to the [short presentation](https://www.canva.com/design/DAGT1QUyg-o/c0sDOQNcvjOw7wpqU8ssgA/view?utm_content=DAGT1QUyg-o&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 ## How to use it
 To use my code you can clone my repo. The F1 API works without private key. For the Open Weather Map API a private key is needed but it can be used for free.  
